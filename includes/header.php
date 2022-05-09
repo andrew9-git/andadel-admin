@@ -40,11 +40,13 @@ function andadel_header($active, $page_name)
         </li>
         <li>
           <div class="icon-links">
-            <a href="#" class="no-action">
+            <div class="div-arrow">
               <i class="bx bx-support arrow"></i>
-              <span class="links_name arrow">Messages</span>
+              <a href="#" class="no-action">
+                <span class="links_name arrow">Messages</span>
+              </a>
               <i class="bx bxs-chevron-down rotate arrow"></i>
-            </a>
+            </div>
           </div>
           <ul class="sub-menu">
             <li>
