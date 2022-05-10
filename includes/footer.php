@@ -124,4 +124,7 @@ function ckeditor($page = '')
 </html>
 <?php
 }
+
+ob_end_flush();
+
 ?>
